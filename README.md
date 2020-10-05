@@ -1,3 +1,9 @@
-<h1>Hello World</h1>
+# Hello World
 
-I like web dev and making video games.
+### 💼 [Portfolio](https://masumahmed.github.io)
+
+### Bio
+
+- 🕸 Web Developer
+- 🎮 Game developer
+- 🎨 Illustrator
