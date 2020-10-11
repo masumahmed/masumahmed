@@ -6,4 +6,3 @@
 
 - 🕸 Web Developer
 - 🎮 Game developer
-- 🎨 Illustrator
