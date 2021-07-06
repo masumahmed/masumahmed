@@ -1,4 +1,4 @@
-# 👾 Masum Ahmed ➡ [Portfolio](https://masumahmed.github.io)
+# 👾 Masum Ahmed 👾 [Portfolio](https://masumahmed.github.io)
 ### 🕸 Fullstack Web Development
 - Frontend: React, Redux, AnimeJS, ThreeJS, SASS, Bootstrap, Tailwind
 - Backend: Express, MySQL
