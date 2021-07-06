@@ -1,3 +1,9 @@
+<img 
+  height="200" 
+  width="100%" 
+  style="object-fit: cover;"
+  src="https://raw.githubusercontent.com/masumahmed/masumahmed.github.io/cbf662f0feeab08582ee5e84a518ce314bf5d24a/assets/img/setup1.jpg" 
+/>
 # 👾 Masum Ahmed 👾 [Portfolio](https://masumahmed.github.io)
 ### 🕸 Fullstack Web Development
 - Frontend: React, Redux, AnimeJS, ThreeJS, SASS, Bootstrap, Tailwind
