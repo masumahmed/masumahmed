@@ -8,7 +8,7 @@
 ### 🕸 Fullstack Web Development
 - Frontend: React, Redux, AnimeJS, ThreeJS, SASS, Bootstrap, Tailwind
 - Backend: Express, MySQL, PostGreSQL
-### 🎮 Game Develoment and Programming
+### 🎮 Game Develoment
 - Gadot: C++/C# GDScript, Python3
 - PICO-8: Lua
 ### 💹 Algorithmic Trading
