@@ -1,6 +1,8 @@
 <img 
   align="center"
-  height="200" 
+  height="400" 
   style="object-fit: cover;"
-  src="https://raw.githubusercontent.com/masumahmed/masumahmed.github.io/cbf662f0feeab08582ee5e84a518ce314bf5d24a/assets/img/setup1.jpg" 
+  src="https://c.tenor.com/OBvqSOmD8qEAAAAd/lain-navi.gif" 
 />
+
+*Exiting VIM...*
