@@ -1,6 +1,6 @@
 <img 
   align="right"
-  height="200" 
+  height="100" 
   style="object-fit: cover;"
   src="https://c.tenor.com/OBvqSOmD8qEAAAAd/lain-navi.gif" 
 />⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
